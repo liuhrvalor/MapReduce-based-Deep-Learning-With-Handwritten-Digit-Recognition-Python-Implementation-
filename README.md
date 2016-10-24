@@ -7,5 +7,4 @@ final model in CNN.
 
 Use python multiprocessing library to runing two batch at differnt cpu at the same time.
 
-You can refer the paper: MapReduce-based Deep Learning With Handwritten
-Digit Recognition Case Study to get more idea.
+You can refer the paper: #MapReduce-based Deep Learning With Handwritten Digit Recognition Case Study to get more idea.
