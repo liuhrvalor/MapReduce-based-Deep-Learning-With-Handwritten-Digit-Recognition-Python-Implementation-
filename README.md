@@ -1,4 +1,4 @@
-#MapReduce-based Deep Learning With Handwritten Digit Recognition
+#MapReduce-based Deep Learning With Handwritten Digit Recognition(Python Implementaion)
 
 Applied MapReduce idea into Convolutional Neural Networks for Handwriting Recognition by first getting temporary
 corresponding weights matrix in Stochastic Gradient Descent and then combining all separate weights matrix to get
